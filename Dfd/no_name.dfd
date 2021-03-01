@@ -1,0 +1,97 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+252
+"Bienvenido al aplicativo de la tienda paraiso diseñado para que el usuario pueda conocer el valor de los productos - el valor del IVA y el valor final a pagar ------- MAKER: Jhoan Fernando Florez Caballero -------- Type the price of the first product"
+5
+1
+10
+v_product1
+7
+0
+1
+14
+v_product1 < 0
+4
+1
+37
+"Now the price of the second product"
+5
+1
+10
+v_product2
+7
+0
+1
+14
+v_product2 < 0
+4
+1
+37
+"Now the price of the thirth product"
+5
+1
+10
+v_product3
+7
+0
+1
+14
+v_product3 < 0
+4
+1
+37
+"Now the price of the fourth product"
+5
+1
+10
+v_product4
+7
+0
+1
+14
+v_product4 < 0
+6
+2
+3
+SUM
+49
+v_product1 + v_product2 + v_product3 + v_product4
+5
+MULTI
+16
+SUM * 0.19 + SUM
+4
+1
+233
+" Product 1 = ", v_product1 , "--------- Product 2 = ", v_product2 , "--------- Product 3 = " , v_product3 ,"----------Product 4 = " , v_product4 , "----------- Total price without IVA: " , SUM , "---- Total price with IVA: " , MULTI
+13
+4
+1
+14
+"Invalid data"
+13
+13
+4
+1
+14
+"Invalid data"
+13
+13
+4
+1
+14
+"Invalid data"
+13
+13
+4
+1
+14
+"Invalid data"
+13
+1

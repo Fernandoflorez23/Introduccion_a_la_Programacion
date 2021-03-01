@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+166
+"SOFTCOMPAREAGE V1.0 ---- MAKER: Jhoan Fernando Florez Caballero ---- this software compare birth of two people ----- Type/inpunt the year birth of the first person:"
+5
+1
+7
+v_year1
+4
+1
+52
+"Type/input the year of birth of the second person:"
+5
+1
+7
+v_year2
+7
+0
+1
+33
+v_year1 > 2021 OR v_year2 > 2021 
+6
+2
+7
+v_year1
+13
+2021- v_year1
+7
+v_year2
+14
+2021 - v_year2
+7
+0
+1
+17
+v_year1 = v_year2
+7
+0
+1
+17
+v_year1 < v_year2
+4
+1
+96
+"The person with the less age is the second person. He is the youngest - his age is: " , v_year2
+13
+4
+1
+94
+"The person with the less age is the firt person. He is the youngest - his age is: " , v_year1
+13
+13
+4
+1
+19
+"The ages are same"
+13
+13
+4
+1
+65
+"ERR: Some of the data are wrong - both should be less than 2021"
+13
+1
