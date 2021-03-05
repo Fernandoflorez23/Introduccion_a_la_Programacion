@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+160
+'This soft calculate the salary on an employee taking  into account the salary hired and the days worked in the mounth ----------- MAKER: Jhoan Fernando Florez'
+4
+1
+64
+'Write your salary first and then the number of days you worked'
+5
+1
+16
+v_salary, v_days
+7
+0
+1
+25
+v_days < 1 OR v_days > 30
+7
+0
+1
+13
+v_salary <= 0
+6
+1
+14
+v_salary_total
+22
+(v_salary/30) * v_days
+4
+1
+39
+'Your salary is: COP ' , v_salary_total
+13
+4
+1
+56
+'ERR: The numbers of salary should are positive numbers'
+13
+13
+4
+1
+40
+'ERR: The days should are in days valid'
+13
+1

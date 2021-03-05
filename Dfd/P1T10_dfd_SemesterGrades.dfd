@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+78
+'This software was made to calculate the notes of a student - put your grades'
+5
+1
+35
+v_grade1,v_grade2,v_grade3,v_grade4
+7
+0
+1
+108
+v_grade1<0 OR v_grade1>5 OR v_grade2<0 OR v_grade2>5 OR v_grade3<0 OR v_grade3>5 OR v_grade4<0 OR v_grade4>5
+6
+1
+6
+Weight
+68
+(v_grade1*0.20) + (v_grade2*0.25) + (v_grade3*0.25) + (v_grade4*0.3)
+4
+1
+183
+'First grade: ' , v_grade1 ,'------ Second grade: ' , v_grade2 , '----- Third grade: ' , v_grade3, '-------Fourth grade: ' , v_grade4, '--------The final grade sencente is: ' , Weight
+13
+4
+1
+18
+'Grades incorrect'
+13
+1

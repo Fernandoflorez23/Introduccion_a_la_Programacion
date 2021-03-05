@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+31
+'This soft is same a calendar' 
+4
+1
+31
+'Put a number between 1 and 12'
+5
+1
+7
+v_month
+7
+1
+1
+29
+v_month >= 1 AND v_month <=12
+7
+0
+1
+11
+v_month = 2
+7
+0
+1
+103
+v_month = 1 OR v_month = 3 OR v_month = 5 OR v_month = 7 OR v_month = 8 OR v_month = 10 OR v_month = 12
+4
+1
+25
+'This month have 30 days'
+13
+4
+1
+26
+'This month have 3 1 days'
+13
+13
+4
+1
+28
+'This month have 28/29 days'
+13
+13
+4
+1
+16
+'Invalid number'
+13
+1
