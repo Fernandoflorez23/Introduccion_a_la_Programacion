@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+187
+'Hello - thanks for use the volumen_of_cylinder_soft ------- This software calculate the volume of a cylinder knowing the radius and height-------- MAKER: Jhoan Fernando Florez Caballero'
+4
+1
+45
+'Input the radius and height of the cylinder'
+5
+1
+18
+v_radius, v_height
+6
+1
+8
+v_volume
+32
+3.141592 * v_radius^2 * v_height
+4
+1
+38
+'The volme of cylinder is: ', v_volume
+4
+1
+29
+'Thanks for use this program'
+1

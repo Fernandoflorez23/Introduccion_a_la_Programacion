@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+147
+'Thanks for use the Three_numbers soft -- This program determines which is the largest of three numbers --- MAKER: Jhoan Fernando Florez Caballero'
+4
+1
+20
+'Type three numbers'
+5
+1
+29
+v_number1,v_number2,v_number3
+7
+0
+1
+47
+v_number1 = v_number2 AND v_number1 = v_number3
+7
+0
+1
+47
+v_number1 > v_number2 AND v_number1 > v_number3
+7
+0
+1
+47
+v_number2 > v_number1 AND v_number2 > v_number3
+7
+0
+1
+47
+v_number3 > v_number2 AND v_number3 > v_number2
+7
+0
+1
+47
+v_number1 = v_number2 AND v_number1 > v_number3
+4
+1
+46
+'The second and the third number are the same'
+13
+4
+1
+46
+'The third and the fourth number are the same'
+13
+13
+4
+1
+43
+'The number ', v_number3, ' is the largest'
+13
+13
+4
+1
+43
+'The number ', v_number2, ' is the largest'
+13
+13
+4
+1
+43
+'The number ', v_number1, ' is the largest'
+13
+13
+4
+1
+28
+'The three numbers are same'
+13
+4
+1
+29
+'Thanks for use this program'
+1

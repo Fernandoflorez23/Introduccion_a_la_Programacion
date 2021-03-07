@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+142
+'SOFT_EVEN_OR_ODD ----- this software calculate is even or odd_only whole numbers are accepted -------- MAKER:Jhoan Fernando Florez Caballero'
+4
+1
+22
+'Input a whole number'
+5
+1
+8
+v_number
+6
+1
+6
+Ntotal
+14
+v_number mod 2
+7
+0
+1
+12
+v_number = 0
+7
+0
+1
+10
+Ntotal = 0
+4
+1
+19
+v_number, ' is odd'
+13
+4
+1
+20
+v_number, ' es even'
+13
+13
+4
+1
+56
+'this number depends on how the author wants to see it.'
+13
+4
+1
+26
+'Thanks for use this soft'
+1

@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+98
+'Hello - thanks fot use the hypotenuse_soft - this program determines de hypotenuse of a triangle'
+4
+1
+40
+'Input the datas of cateto1 and cateto2'
+5
+1
+19
+v_cateto1,v_cateto2
+7
+0
+1
+30
+v_cateto1 < 0 OR v_cateto2 < 0
+6
+1
+10
+hypotenuse
+30
+sqrt (v_cateto1^2+v_cateto2^2)
+4
+1
+48
+'The hypotenuse of the triangle is ', hypotenuse
+13
+4
+1
+44
+'ERR: input a correct sizes of the triangle'
+13
+4
+1
+29
+'Thanks for use this program'
+1
