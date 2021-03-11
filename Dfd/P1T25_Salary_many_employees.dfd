@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+118
+'Salary_of_employeeSoft --- This soft calculate the average_salary -- the total salary and the highest salary MAKERS:'
+4
+1
+26
+'Type the total employees'
+5
+1
+11
+v_total_emp
+7
+0
+1
+16
+v_total_emp <= 0
+6
+3
+7
+v_total
+1
+0
+9
+v_average
+1
+0
+9
+v_highest
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+11
+v_total_emp
+1
+1
+1
+4
+1
+39
+'Input the salary of the employee: ', i
+5
+1
+8
+v_salary
+4
+1
+47
+'Input the work days that the employees worked'
+5
+1
+4
+v_wd
+6
+2
+5
+v_sal
+18
+(v_salary/30)*v_wd
+7
+v_total
+15
+v_total + v_sal
+7
+0
+1
+17
+v_sal > v_highest
+13
+6
+1
+9
+v_highest
+5
+v_sal
+13
+10
+6
+1
+9
+v_average
+21
+v_total / v_total_emp
+4
+1
+115
+'The total salarys are: ',v_total, ' ---- The average is: ', v_average, ' -------The highest salary is: ', v_salary
+13
+4
+1
+30
+'ERR: The dates are incorrect'
+13
+1

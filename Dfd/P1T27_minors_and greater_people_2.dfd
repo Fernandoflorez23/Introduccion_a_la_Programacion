@@ -1,0 +1,149 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+143
+'This program determinate how many are children -- adolecents -- adults -- older adults or matusalen MAKERS: Daniela Vargas --- Fernado Florez'
+4
+1
+24
+'Input the total person'
+5
+1
+14
+v_total_people
+7
+0
+1
+18
+v_total_people < 1
+6
+3
+10
+v_children
+1
+0
+12
+v_adolecents
+1
+0
+8
+v_adults
+1
+0
+6
+2
+14
+v_older_adults
+1
+0
+11
+v_matusalen
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+14
+v_total_people
+1
+1
+1
+4
+1
+30
+'Input the age of person: ', i
+5
+1
+5
+v_age
+7
+1
+1
+10
+v_age > -1
+7
+0
+1
+10
+v_age <= 6
+7
+0
+1
+10
+v_age < 18
+7
+0
+1
+10
+v_age < 45
+7
+0
+1
+10
+v_age < 90
+6
+1
+11
+v_matusalen
+15
+v_matusalen + 1
+13
+6
+1
+14
+v_older_adults
+18
+v_older_adults + 1
+13
+13
+6
+1
+8
+v_adults
+13
+v_adults + 1 
+13
+13
+6
+1
+12
+v_adolecents
+16
+v_adolecents + 1
+13
+13
+6
+1
+10
+v_children
+14
+v_children + 1
+13
+13
+4
+1
+38
+'ERR: The age should be higher than 0'
+13
+10
+4
+1
+166
+'Children: ',v_children, ' ------ Adolcents: ',v_adolecents, ' ------ Adults: ', v_adults, ' ------ Older adults: ',v_older_adults,' ------- Matusalen: ', v_matusalen
+13
+4
+1
+47
+'ERR: the total person should be higher than 0'
+13
+1
