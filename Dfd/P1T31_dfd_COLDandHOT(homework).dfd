@@ -1,0 +1,139 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+4
+1
+135
+'Hello - welcome to cold-and-hot-program. This program simulate the game of same name --------- MAKER: Jhoan Fernando Florez Caballero'
+12
+1
+8
+p_number
+1
+8
+v_number
+4
+1
+29
+'Thanks for use this program'
+1
+2
+1
+8
+p_number
+1
+8
+v_number
+1
+80
+In this subprogram will delimit the limits of the number that the user can input
+4
+1
+63
+'Input a number that you think is the hottest between 1 and 15'
+5
+1
+8
+v_number
+6
+3
+15
+v_number_random
+13
+random(15) +1
+5
+v_sum
+19
+v_number_random + 1
+6
+v_rest
+19
+v_number_random - 1
+6
+3
+6
+v_sum2
+19
+v_number_random + 2
+7
+v_rest2
+19
+v_number_random - 2
+6
+v_sum3
+19
+v_number_random + 3
+6
+2
+7
+v_rest3
+19
+v_number_random - 3
+8
+intentos
+1
+0
+9
+1
+29
+v_number < 1 OR v_number > 15
+4
+1
+63
+'The number input is not within the limits. Input a new number'
+5
+1
+8
+v_number
+11
+9
+1
+27
+v_number != v_number_random
+6
+1
+8
+intentos
+12
+intentos + 1
+7
+0
+1
+123
+v_number = v_sum OR v_number = v_rest OR v_number = v_sum2 OR v_number = v_rest2 OR v_number = v_sum3 OR v_number = v_rest3
+4
+1
+34
+'Sorry - your are ice - Try again'
+13
+4
+1
+29
+'Omg you are hot - try again'
+13
+5
+1
+8
+v_number
+11
+7
+0
+1
+26
+v_number = v_number_random
+13
+6
+1
+8
+intentos
+12
+intentos + 1
+4
+1
+100
+'Nice - you are right - the number correct is: ', v_number_random, ' and your tries are: ', intentos
+13
+3
