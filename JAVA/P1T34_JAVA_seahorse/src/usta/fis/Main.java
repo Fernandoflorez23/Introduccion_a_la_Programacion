@@ -7,30 +7,33 @@ package usta.fis;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("_______$$$$$..");
-        System.out.println("_______$$$$$$$$");
-        System.out.println("_______$$$$$$_$");
-        System.out.println("______$$$$$$$$$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("______s_$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
-        System.out.println("_______$");
+        System.out.println("--------$$$$");
+        System.out.println("------$$$$$$$$$");
+        System.out.println("------$$$$$$$-$");
+        System.out.println("-----$$$$$$$$$$");
+        System.out.println("-------$$$$$$$$$$");
+        System.out.println("------$$$$$$-$$$$$");
+        System.out.println("----$$$$$$$-----$$$");
+        System.out.println("----$$$$$$$-----$");
+        System.out.println("----$$$$$$$$$$");
+        System.out.println("-----$$$$$$$$$$");
+        System.out.println("-----$$$$$$$$$$$");
+        System.out.println("------$$$$$$$$$$$");
+        System.out.println("-$$$$---$$$$$$$$$");
+        System.out.println("--$$$$$$$$$$$$$$$");
+        System.out.println("-$$$$$$$$$$$$$$$");
+        System.out.println("--$$$$$$$$$$$$$");
+        System.out.println("$$$$$$$$$$$$$");
+        System.out.println("--$--$$$$$$");
+        System.out.println("----$$$$$$");
+        System.out.println("----$$$$$");
+        System.out.println("---$$$$$$-----$");
+        System.out.println("---$$$$$$---$$-$$");
+        System.out.println("----$$$$$---$--$$");
+        System.out.println("----$$$$$------$$");
+        System.out.println("-----$$$$$----$$$");
+        System.out.println("-------$$$$$$$$$");
+        System.out.println("---------$$$$");
+
     }
 }
