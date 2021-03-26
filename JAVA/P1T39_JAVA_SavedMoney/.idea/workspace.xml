@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9500eb0-27ac-4bbd-b7e6-d692211efa25" name="Default Changelist" comment="" />
+    <list default="true" id="3aa7ed0e-a342-48fe-8e6e-d746e366681d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectId" id="1qA0D0I78cbiNDcCCJUI2JD823j" />
+  <component name="ProjectId" id="1qFchJwaSDFtjZbgVe0lGEZ6dof" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -71,10 +71,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../P1T38_JAVA_SOFTTIMECYCLE/src/usta/fis/Main.java" />
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="usta.fis.Main" />
-      <module name="P1T1_JAVA_SOFTTIMECYCLE" />
+      <module name="P1T39_JAVA_SavedMoney" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -91,11 +94,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9500eb0-27ac-4bbd-b7e6-d692211efa25" name="Default Changelist" comment="" />
-      <created>1616506966654</created>
+      <changelist id="3aa7ed0e-a342-48fe-8e6e-d746e366681d" name="Default Changelist" comment="" />
+      <created>1616678899446</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1616506966654</updated>
+      <updated>1616678899446</updated>
     </task>
     <servers />
   </component>
